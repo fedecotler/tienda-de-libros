@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import list from "../data";
-import Cards from "./card";
+import Cards from "./ItemListContainer";
 import "../styles/amazon.css";
 
 const Amazon = ({ handleClick }) => {
